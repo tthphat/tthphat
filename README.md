@@ -8,10 +8,10 @@ Passionate about building modern web applications and scalable backend systems.
 
 ## 🚀 About Me
 
-- 🎯 I am seeking a **Backend / Fullstack Developer Internship**
-- 🧠 Interested in **Backend Architecture, API Design, and Web Applications**
-- ⚡ Experienced with **RESTful APIs, Authentication Systems, and Database Design**
-- 🌱 Currently improving my **backend engineering and system design skills**
+- I am seeking a **Backend / Fullstack Developer Internship**
+- Interested in **Backend Architecture, API Design, and Web Applications**
+- Experienced with **RESTful APIs, Authentication Systems, and Database Design**
+- Currently improving my **backend engineering and system design skills**
 
 ---
 
@@ -25,6 +25,7 @@ Passionate about building modern web applications and scalable backend systems.
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-black?style=for-the-badge)
 
 ### Backend
@@ -97,6 +98,9 @@ React • Tailwind • Express • Supabase • Knex
 
 🔗 Live Demo  
 https://web-board-game-phi.vercel.app/
+
+🔗 Project:  
+https://github.com/tthphat/Web_BoardGame
 
 ---
 

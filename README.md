@@ -34,6 +34,7 @@ Passionate about building modern web applications and scalable backend systems.
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
@@ -71,6 +72,28 @@ Passionate about building modern web applications and scalable backend systems.
 ---
 
 # 🚀 Featured Projects
+
+## 🎟️ TicketBox
+
+Concert ticketing platform handling high-concurrency ticket booking with distributed locking and async processing.
+
+**Tech Stack**
+
+NestJS • Next.js • PostgreSQL • Prisma • Redis • BullMQ • MinIO • Docker
+
+**Key Features**
+
+- System architecture designed with C4 Model & Hexagonal Architecture
+- 25+ table relational database schema with indexes, constraints, and relationships
+- JWT + Refresh Token authentication, Notification, File Upload, Artist Bio AI
+- High-concurrency ticket booking with Redis, BullMQ, idempotency keys, distributed locking
+- 80,000+ requests/minute throughput with multi-layer rate limiting, queue reservation, and graceful degradation
+- Scheduled background jobs for order cleanup, ticket release, and concert reminders
+
+🔗 Project:  
+https://github.com/tthphat/TicketBox
+
+---
 
 ## 🛒 Farmily Fresh Produce Website
 

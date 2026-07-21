@@ -65,9 +65,10 @@ Passionate about building modern web applications and scalable backend systems.
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tthphat&show_icons=true&theme=tokyonight&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tthphat&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tthphat&layout=compact&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tthphat&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tthphat&theme=tokyonight)
 
 ---
 
